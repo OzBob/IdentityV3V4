@@ -1,0 +1,583 @@
+'iisexpress.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityV3V4.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Server.IIS.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.DependencyInjection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Logging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\netstandard.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.FileProviders.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.Tasks.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.IO.FileSystem.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.CommandLine.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Server.Kestrel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.InteropServices.RuntimeInformation.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Server.IISIntegration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Logging.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Http.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Diagnostics.DiagnosticSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Http.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.FileProviders.Physical.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.FileExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.UserSecrets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.IO.FileSystem.Watcher.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.ComponentModel.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.FileSystemGlobbing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.Timer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.Overlapped.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\Microsoft.Win32.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Text.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Buffers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.CompilerServices.Unsafe.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Diagnostics.Tracing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Options.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Logging.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Logging.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Logging.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Logging.EventSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.HostFiltering.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Routing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.ObjectPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Routing.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.ObjectModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Authentication.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.Storage.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Identity.Stores.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.Tasks.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Identity.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityServer4.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Authentication.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Identity.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.DataProtection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.DataProtection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Cryptography.Internal.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.WebEncoders.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\System.Text.Encodings.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Authentication.Cookies.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.RazorPages.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.StaticFiles.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.DependencyModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityV3V4.Views.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Razor.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Authorization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Cors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.ViewFeatures.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Linq.Expressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Components.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.JSInterop.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Antiforgery.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Caching.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Caching.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Mvc.TagHelpers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Razor.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Resources.ResourceManager.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityServer4.Storage.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityServer4.AspNetIdentity.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Html.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Reflection.Emit.ILGeneration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Reflection.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Configuration.Binder.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.Thread.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\Microsoft.Win32.Registry.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Xml.XDocument.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Private.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Private.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Diagnostics.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Information: User profile is available. Using 'C:\Users\testuser\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Security.Cryptography.Algorithms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Text.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Diagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.HttpsPolicy.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+IdentityServer4.Startup: Information: Starting IdentityServer4 version 3.0.0.0
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Data.Common.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Remotion.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Transactions.Local.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.ComponentModel.TypeConverter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+Microsoft.Extensions.DependencyInjection.ConfigureApiResources: Information: Configuring local API resource 'IdentityV3V4API'.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Collections.Specialized.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Drawing.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.ConfigureClients: Information: Configuring client 'IdentityV3V4'.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\IdentityModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Security.Cryptography.X509Certificates.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Security.Cryptography.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.ConfigureSigningCredentials: Information: Loading development key at 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\obj/tempkey.json'.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.Serialization.Formatters.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Diagnostics.TraceSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Runtime.Serialization.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Xml.ReaderWriter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.Configuration.ConfigureClientScopes: Information: Resource 'IdentityV3V4API' allows all applications.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.Configuration.ConfigureClientScopes: Information: Identity resource 'openid' allows all applications.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.Configuration.ConfigureClientScopes: Information: Identity resource 'profile' allows all applications.
+IdentityServer4.Startup: Information: Using explicitly configured authentication scheme Identity.Application for IdentityServer
+IdentityServer4.Startup: Debug: Using IdentityServerJwt as default ASP.NET Core scheme for authentication
+IdentityServer4.Startup: Debug: Using Identity.External as default ASP.NET Core scheme for sign-in
+IdentityServer4.Startup: Debug: Using Identity.External as default ASP.NET Core scheme for sign-out
+IdentityServer4.Startup: Debug: Using IdentityServerJwt as default ASP.NET Core scheme for challenge
+IdentityServer4.Startup: Debug: Using IdentityServerJwt as default ASP.NET Core scheme for forbid
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.Localization.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Net.Http.Headers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Security.Principal.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.NameResolution.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.SpaServices: Information: Starting @angular/cli on port 52773...
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Diagnostics.Process.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Threading.ThreadPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.Security.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.FileProviders.Embedded.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.Extensions.FileProviders.Composite.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\System.IO.Pipelines.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/  
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Http.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+IdentityServer4.Startup: Debug: Login Url: /Identity/Account/Login
+IdentityServer4.Startup: Debug: Login Return Url Parameter: ReturnUrl
+IdentityServer4.Startup: Debug: Logout Url: /Identity/Account/Logout
+IdentityServer4.Startup: Debug: ConsentUrl Url: /consent
+IdentityServer4.Startup: Debug: Consent Return Url Parameter: returnUrl
+IdentityServer4.Startup: Debug: Error Url: /home/error
+IdentityServer4.Startup: Debug: Error Id Parameter: errorId
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.ComponentModel.Annotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.SpaServices: Information: > IdentityV3V4@0.0.0 start C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\ClientApp
+> ng serve "--port" "52773"
+
+** Angular Live Development Server is listening on localhost:52773, open your browser on http://localhost:52773/ **
+
+Microsoft.AspNetCore.SpaServices: Information: i ´¢ówdm´¢ú: wait until bundle finished: /
+
+Microsoft.AspNetCore.SpaServices: Information: i ´¢ówdm´¢ú: wait until bundle finished: /
+
+Microsoft.AspNetCore.SpaServices: Information: Date: 2019-06-17T03:02:22.428Z
+Hash: 68aeb1fc90d75af44562
+Time: 9253ms
+chunk {main} main.js, main.js.map (main) 107 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.css, styles.css.map (styles) 140 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 4.37 MB [initial] [rendered]
+
+Microsoft.AspNetCore.SpaServices: Information: i ´¢ówdm´¢ú: Compiled successfully.
+
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 14510.7736ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/styles.css  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/vendor.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/main.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/polyfills.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/runtime.js  
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.0.0-preview5-19227-01\Microsoft.AspNetCore.Connections.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Security.Principal.Windows.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1086.2132000000001ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1089.9944ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1087.9977000000001ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1095.5288ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1321.1092ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 76.3031ms
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 85.1841ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 196.15290000000002ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 193.29760000000002ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/sockjs-node/info?t=1560740545286  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1008.214ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET https://localhost:44394/sockjs-node/843/phuxbfz4/websocket  
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.WebSockets.Client.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Net.WebHeaderCollection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Collections.NonGeneric.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration matched to endpoint type Discovery
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+IdentityServer4.Endpoints.DiscoveryEndpoint: Debug: Start discovery request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 66.9672ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/connect/authorize?client_id=IdentityV3V4&redirect_uri=https%3A%2F%2Flocalhost%3A44394%2Fauthentication%2Flogin-callback&response_type=id_token%20token&scope=IdentityV3V4API%20openid%20profile&state=820ed8d7460248b9a012290749b9534b&nonce=faef365ef7fe40a685fcd12ce7d155bb&prompt=none  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /connect/authorize matched to endpoint type Authorize
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+IdentityServer4.Endpoints.AuthorizeEndpoint: Debug: Start authorize request
+IdentityServer4.Endpoints.AuthorizeEndpoint: Debug: User in authorize request: 1f1a8875-c9cd-41aa-a9bc-092b9359658f
+IdentityServer4.Validation.AuthorizeRequestValidator: Debug: Start authorize request protocol validation
+IdentityServer4.Stores.ValidatingClientStore: Debug: client configuration validation for client IdentityV3V4 succeeded.
+IdentityServer4.Validation.AuthorizeRequestValidator: Debug: Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+IdentityServer4.Endpoints.AuthorizeEndpoint: Information: ValidatedAuthorizeRequest
+{
+  "ClientId": "IdentityV3V4",
+  "ClientName": "IdentityV3V4",
+  "RedirectUri": "https://localhost:44394/authentication/login-callback",
+  "AllowedRedirectUris": [
+    "/authentication/login-callback"
+  ],
+  "SubjectId": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+  "ResponseType": "id_token token",
+  "ResponseMode": "fragment",
+  "GrantType": "implicit",
+  "RequestedScopes": "IdentityV3V4API openid profile",
+  "State": "820ed8d7460248b9a012290749b9534b",
+  "Nonce": "faef365ef7fe40a685fcd12ce7d155bb",
+  "PromptMode": "none",
+  "SessionId": "21dc47d80e8c109cc11a0f2fa453099d",
+  "Raw": {
+    "client_id": "IdentityV3V4",
+    "redirect_uri": "https://localhost:44394/authentication/login-callback",
+    "response_type": "id_token token",
+    "scope": "IdentityV3V4API openid profile",
+    "state": "820ed8d7460248b9a012290749b9534b",
+    "nonce": "faef365ef7fe40a685fcd12ce7d155bb",
+    "prompt": "none"
+  }
+}
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Collections.Immutable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Reflection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Reflection.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.0.0-preview5-27626-15\System.Linq.Queryable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.EntityFrameworkCore.Infrastructure: Information: Entity Framework Core 3.0.0-preview5.19227.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x5a50 has exited with code 0 (0x0).
+IdentityServer4.Services.DefaultConsentService: Debug: Client is configured to not require consent, no consent is required
+IdentityServer4.ResponseHandling.AuthorizeResponseGenerator: Debug: Creating Implicit Flow response.
+IdentityServer4.Services.DefaultClaimsService: Debug: Getting claims for access token for client: IdentityV3V4
+IdentityServer4.Services.DefaultClaimsService: Debug: Getting claims for access token for subject: 1f1a8875-c9cd-41aa-a9bc-092b9359658f
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Users\testuser\Source\Repos\ozbob\IdentityV4\3_0\IdentityV3V4\IdentityV3V4\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+IdentityServer4.Services.DefaultClaimsService: Debug: Getting claims for identity token for subject: 1f1a8875-c9cd-41aa-a9bc-092b9359658f and client: IdentityV3V4
+IdentityServer4.Services.DefaultClaimsService: Debug: In addition to an id_token, an access_token was requested. No claims other than sub are included in the id_token. To obtain more user claims, either use the user info endpoint or set AlwaysIncludeUserClaimsInIdToken on the client configuration.
+IdentityServer4.Events.DefaultEventService: Information: {
+  "Name": "Token Issued Success",
+  "Category": "Token",
+  "EventType": "Success",
+  "Id": 2000,
+  "ClientId": "IdentityV3V4",
+  "ClientName": "IdentityV3V4",
+  "RedirectUri": "https://localhost:44394/authentication/login-callback",
+  "Endpoint": "Authorize",
+  "SubjectId": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+  "Scopes": "openid profile IdentityV3V4API",
+  "GrantType": "implicit",
+  "Tokens": [
+    {
+      "TokenType": "id_token",
+      "TokenValue": "****GTcA"
+    },
+    {
+      "TokenType": "access_token",
+      "TokenValue": "****HOwQ"
+    }
+  ],
+  "ActivityId": "80000020-0000-ff00-b63f-84710c7967bb",
+  "TimeStamp": "2019-06-17T03:02:31Z",
+  "ProcessId": 22672,
+  "LocalIpAddress": "::1:44394",
+  "RemoteIpAddress": "::1"
+}
+IdentityServer4.Endpoints.AuthorizeEndpoint: Information: Authorize endpoint response
+{
+  "SubjectId": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+  "ClientId": "IdentityV3V4",
+  "RedirectUri": "https://localhost:44394/authentication/login-callback",
+  "State": "820ed8d7460248b9a012290749b9534b",
+  "Scope": "openid profile IdentityV3V4API"
+}
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1766.2812000000001ms 302 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/authentication/login-callback  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1009.2054ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/polyfills.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/runtime.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/vendor.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/main.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/styles.css  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1023.9335000000001ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1018.3338ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1027.4626ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1028.1437ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1026.8712ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 25.340400000000002ms
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 14.3901ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 56.2393ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 55.481300000000005ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/sockjs-node/info?t=1560740554350  
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 3.5119000000000002ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 27.993000000000002ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration matched to endpoint type Discovery
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+IdentityServer4.Endpoints.DiscoveryEndpoint: Debug: Start discovery request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 12.7535ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration/jwks  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+IdentityServer4.Endpoints.DiscoveryKeyEndpoint: Debug: Start key discovery request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 24.064600000000002ms 200 application/jwk-set+json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/connect/userinfo  
+Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: Information: Successfully validated the token.
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /connect/userinfo matched to endpoint type Userinfo
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Userinfo, successfully created handler: IdentityServer4.Endpoints.UserInfoEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.UserInfoEndpoint for /connect/userinfo
+IdentityServer4.Endpoints.UserInfoEndpoint: Debug: Start userinfo request
+IdentityServer4.Validation.BearerTokenUsageValidator: Debug: Bearer token found in header
+IdentityServer4.Stores.ValidatingClientStore: Debug: client configuration validation for client IdentityV3V4 succeeded.
+IdentityServer4.Stores.ValidatingClientStore: Debug: client configuration validation for client IdentityV3V4 succeeded.
+Microsoft.EntityFrameworkCore.Infrastructure: Information: Entity Framework Core 3.0.0-preview5.19227.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+IdentityServer4.Validation.TokenValidator: Debug: Calling into custom token validator: IdentityServer4.Validation.DefaultCustomTokenValidator
+IdentityServer4.Validation.TokenValidator: Debug: Token validation success
+{
+  "ValidateLifetime": true,
+  "AccessTokenType": "Jwt",
+  "ExpectedScope": "openid",
+  "Claims": {
+    "nbf": 1560740551,
+    "exp": 1560744151,
+    "iss": "https://localhost:44394",
+    "aud": [
+      "https://localhost:44394/resources",
+      "IdentityV3V4API"
+    ],
+    "client_id": "IdentityV3V4",
+    "sub": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+    "auth_time": 1560740274,
+    "idp": "local",
+    "scope": [
+      "openid",
+      "profile",
+      "IdentityV3V4API"
+    ],
+    "amr": "pwd"
+  }
+}
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Creating userinfo response
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Scopes in access token: openid profile IdentityV3V4API
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Scopes in access token: openid profile IdentityV3V4API
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Requested claim types: sub name family_name given_name middle_name nickname preferred_username profile picture website gender birthdate zoneinfo locale updated_at
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Scopes in access token: openid profile IdentityV3V4API
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Information: Profile service returned the following claim types: sub preferred_username name
+IdentityServer4.Endpoints.UserInfoEndpoint: Debug: End userinfo request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 181.9992ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 302.9216ms 0 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration/jwks  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+IdentityServer4.Endpoints.DiscoveryKeyEndpoint: Debug: Start key discovery request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 10.201600000000001ms 200 application/jwk-set+json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/connect/userinfo  
+Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: Information: Successfully validated the token.
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /connect/userinfo matched to endpoint type Userinfo
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Userinfo, successfully created handler: IdentityServer4.Endpoints.UserInfoEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.UserInfoEndpoint for /connect/userinfo
+IdentityServer4.Endpoints.UserInfoEndpoint: Debug: Start userinfo request
+IdentityServer4.Validation.BearerTokenUsageValidator: Debug: Bearer token found in header
+IdentityServer4.Stores.ValidatingClientStore: Debug: client configuration validation for client IdentityV3V4 succeeded.
+IdentityServer4.Stores.ValidatingClientStore: Debug: client configuration validation for client IdentityV3V4 succeeded.
+Microsoft.EntityFrameworkCore.Infrastructure: Information: Entity Framework Core 3.0.0-preview5.19227.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+IdentityServer4.Validation.TokenValidator: Debug: Calling into custom token validator: IdentityServer4.Validation.DefaultCustomTokenValidator
+IdentityServer4.Validation.TokenValidator: Debug: Token validation success
+{
+  "ValidateLifetime": true,
+  "AccessTokenType": "Jwt",
+  "ExpectedScope": "openid",
+  "Claims": {
+    "nbf": 1560740551,
+    "exp": 1560744151,
+    "iss": "https://localhost:44394",
+    "aud": [
+      "https://localhost:44394/resources",
+      "IdentityV3V4API"
+    ],
+    "client_id": "IdentityV3V4",
+    "sub": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+    "auth_time": 1560740274,
+    "idp": "local",
+    "scope": [
+      "openid",
+      "profile",
+      "IdentityV3V4API"
+    ],
+    "amr": "pwd"
+  }
+}
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Creating userinfo response
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Scopes in access token: openid profile IdentityV3V4API
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Scopes in access token: openid profile IdentityV3V4API
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Requested claim types: sub name family_name given_name middle_name nickname preferred_username profile picture website gender birthdate zoneinfo locale updated_at
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Debug: Scopes in access token: openid profile IdentityV3V4API
+IdentityServer4.ResponseHandling.UserInfoResponseGenerator: Information: Profile service returned the following claim types: sub preferred_username name
+IdentityServer4.Endpoints.UserInfoEndpoint: Debug: End userinfo request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 42.7323ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/connect/checksession  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /connect/checksession matched to endpoint type Checksession
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Checksession, successfully created handler: IdentityServer4.Endpoints.CheckSessionEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.CheckSessionEndpoint for /connect/checksession
+IdentityServer4.Endpoints.CheckSessionEndpoint: Debug: Rendering check session result
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 24.316100000000002ms 200 text/html; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/connect/endsession?id_token_hint=eyJhbGciOiJSUzI1NiIsImtpZCI6IkRldmVsb3BtZW50IiwidHlwIjoiSldUIn0.eyJuYmYiOjE1NjA3NDA1NTEsImV4cCI6MTU2MDc0MDg1MSwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzOTQiLCJhdWQiOiJOZ0FwcElkZW50aXR5Iiwibm9uY2UiOiJmYWVmMzY1ZWY3ZmU0MGE2ODVmY2QxMmNlN2QxNTViYiIsImlhdCI6MTU2MDc0MDU1MSwiYXRfaGFzaCI6InE2NllveklqVWNJVDNfT0JKNVd3SFEiLCJzaWQiOiIyMWRjNDdkODBlOGMxMDljYzExYTBmMmZhNDUzMDk5ZCIsInN1YiI6IjFmMWE4ODc1LWM5Y2QtNDFhYS1hOWJjLTA5MmI5MzU5NjU4ZiIsImF1dGhfdGltZSI6MTU2MDc0MDI3NCwiaWRwIjoibG9jYWwiLCJhbXIiOlsicHdkIl19.lIdZzOyWv0G9i_35pRYkRUNUzz0TEE7ARmbUwo7iHDyt1l39DNEaCqBbniuAnsrFR_-Z9Yh040wdbEf0xOmY9ZbYC4iBC5rfR8Qu4CphsOib0x-W0sKSrW2gxcDvJ2hSuZkIZYQSsiq8u3bU9rrEaEqqVY95TYQUIgmHITtMjieEUmiwygzzcpi0xBCVr07FT8f-Yjx757c6GEgd95iM7FidnD15xpxEsFFllSXnJSp8vMgTGpRQkCjOMllmpXTIdWcwAvvDGw6_IdCNEFdSziN6Yd_YPCkErrYfENCzlI_DOoWlMY3FRDrvR5Z_cHo-Y4jKWe9hX67HEjyCKqGTcA&post_logout_redirect_uri=https%3A%2F%2Flocalhost%3A44394%2Fauthentication%2Flogout-callback&state=b76441e46512474e9901c8b6d6aa6f5c  
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /connect/endsession matched to endpoint type EndSession
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: EndSession, successfully created handler: Microsoft.AspNetCore.ApiAuthorization.IdentityServer.AutoRedirectEndSessionEndpoint
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: Microsoft.AspNetCore.ApiAuthorization.IdentityServer.AutoRedirectEndSessionEndpoint for /connect/endsession
+IdentityServer4.Validation.EndSessionRequestValidator: Debug: Start end session request validation
+IdentityServer4.Validation.TokenValidator: Debug: Start identity token validation
+IdentityServer4.Stores.ValidatingClientStore: Debug: client configuration validation for client IdentityV3V4 succeeded.
+IdentityServer4.Validation.TokenValidator: Debug: Client found: IdentityV3V4 / IdentityV3V4
+Microsoft.EntityFrameworkCore.Infrastructure: Information: Entity Framework Core 3.0.0-preview5.19227.1 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+IdentityServer4.Validation.TokenValidator: Debug: Calling into custom token validator: IdentityServer4.Validation.DefaultCustomTokenValidator
+IdentityServer4.Validation.TokenValidator: Debug: Token validation success
+{
+  "ClientId": "IdentityV3V4",
+  "ClientName": "IdentityV3V4",
+  "ValidateLifetime": false,
+  "Claims": {
+    "nbf": 1560740551,
+    "exp": 1560740851,
+    "iss": "https://localhost:44394",
+    "aud": "IdentityV3V4",
+    "nonce": "faef365ef7fe40a685fcd12ce7d155bb",
+    "iat": 1560740551,
+    "at_hash": "q66YozIjUcIT3_OBJ5WwHQ",
+    "sid": "21dc47d80e8c109cc11a0f2fa453099d",
+    "sub": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+    "auth_time": 1560740274,
+    "idp": "local",
+    "amr": "pwd"
+  }
+}
+IdentityServer4.Validation.EndSessionRequestValidator: Information: End session request validation success
+{
+  "ClientId": "IdentityV3V4",
+  "ClientName": "IdentityV3V4",
+  "SubjectId": "1f1a8875-c9cd-41aa-a9bc-092b9359658f",
+  "PostLogOutUri": "https://localhost:44394/authentication/logout-callback",
+  "State": "b76441e46512474e9901c8b6d6aa6f5c",
+  "Raw": {
+    "id_token_hint": "***REDACTED***",
+    "post_logout_redirect_uri": "https://localhost:44394/authentication/logout-callback",
+    "state": "b76441e46512474e9901c8b6d6aa6f5c"
+  }
+}
+Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler: Information: AuthenticationScheme: Identity.Application signed out.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 76.3583ms 302 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/authentication/logout-callback?state=b76441e46512474e9901c8b6d6aa6f5c  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1010.3292ms 200 text/html; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/vendor.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/styles.css  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/main.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/runtime.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/polyfills.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1013.0551ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1017.964ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1019.3801000000001ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1032.7557000000002ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1045.2682ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 17.9036ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 51.138400000000004ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/_configuration/IdentityV3V4  
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 26.9509ms
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller IdentityV3V4.Controllers.OidcConfigurationController (IdentityV3V4).
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration  
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration matched to endpoint type Discovery
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 98.8717ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action IdentityV3V4.Controllers.OidcConfigurationController.GetClientRequestParameters (IdentityV3V4) in 16.105900000000002ms
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 79.04650000000001ms 200 application/json; charset=utf-8
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/.well-known/openid-configuration  
+IdentityServer4.Endpoints.DiscoveryEndpoint: Debug: Start discovery request
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration matched to endpoint type Discovery
+IdentityServer4.Hosting.EndpointRouter: Debug: Request path /.well-known/openid-configuration matched to endpoint type Discovery
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 184.08ms 200 application/json; charset=UTF-8
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+IdentityServer4.Hosting.EndpointRouter: Debug: Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+IdentityServer4.Endpoints.DiscoveryEndpoint: Debug: Start discovery request
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/sockjs-node/info?t=1560740564510  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 182.0859ms 200 application/json; charset=UTF-8
+IdentityServer4.Endpoints.DiscoveryEndpoint: Debug: Start discovery request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 225.4061ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 306.63890000000004ms 0 
+The program '[22672] iisexpress.exe' has exited with code -1 (0xffffffff).

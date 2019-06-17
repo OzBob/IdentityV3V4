@@ -1,9 +1,13 @@
-﻿created with 
-dotnet new angular --auth Individual -uld
-and
-added a custom V2 passwordhaser
+﻿Start VS2019 in Admin mode:
 
- 1. https://github.com/aspnet/AspNetCore/blob/master/src/Identity/UI/src/Areas/Identity/Pages/V4/Account/Login.cshtml#L53
+ 1. created with: dotnet new angular --auth Individual -uld
+ 2. added a custom V2 passwordhaser: services.Configure<PasswordHasherOptions>(option =>{option.CompatibilityMode = PasswordHasherCompatibilityMode.IdentityV2;});
+
+
+TWO ERRORS, 1, scaffolding, 2. logout with IdentityServer endpoint "/.well-known/openid-configuration" failing
+
+
+1. https://github.com/aspnet/AspNetCore/blob/master/src/Identity/UI/src/Areas/Identity/Pages/V4/Account/Login.cshtml#L53
 has a pointless:
 "See <a href="https://go.microsoft.com/fwlink/?LinkID=532715">this article</a> for details on setting up this ASP.NET application to support logging in via external services."
 
@@ -25,3 +29,13 @@ There was an error running the template C:\Users\defaultuser\.nuget\packages\mic
    at Microsoft.VisualStudio.Web.CodeGeneration.CodeGenCommand.Execute(String[] args)
 
 Halfway through Scaffolding, message says "adding DI", then a Build kicked off with the VERBOSE log file: build.log.zip
+
+
+2. Start, Login, Logout, IISExpress CRASH:
+IdentityServer4.Hosting.IdentityServerMiddleware: Information: Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2.0 GET https://localhost:44394/sockjs-node/info?t=1560740564510  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 182.0859ms 200 application/json; charset=UTF-8
+IdentityServer4.Endpoints.DiscoveryEndpoint: Debug: Start discovery request
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 225.4061ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 306.63890000000004ms 0 
+The program '[22672] iisexpress.exe' has exited with code -1 (0xffffffff).
