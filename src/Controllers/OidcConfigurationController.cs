@@ -18,5 +18,14 @@ namespace IdentityV3V4.Controllers
             var parameters = ClientRequestParametersProvider.GetClientParameters(HttpContext, clientId);
             return Ok(parameters);
         }
+        /*
+        [HttpGet(".well-known/openid-configuration/{clientId}")]
+        public IActionResult GetOpenIdConfiguration([FromRoute]string clientId)
+        {
+            var parameters = ClientRequestParametersProvider.GetClientParameters(HttpContext, clientId);
+            return Ok(parameters);
+        }
+        */
+
     }
 }

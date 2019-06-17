@@ -27,13 +27,20 @@ namespace IdentityV3V4
         public void ConfigureServices(IServiceCollection services)
         {
             //Support V2 database of users still in use by classic FullFramework AspIdentity2.2 project
-            services.AddSingleton<IPasswordHasher<ApplicationUser>, Identity.V2PasswordHasher<ApplicationUser>>();
+
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+                options.CheckConsentNeeded = context => false;
+            });
+
+            services.AddSingleton<Microsoft.AspNetCore.Identity.UI.Services.IEmailSender, Services.EmailSender>();
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddDefaultIdentity<ApplicationUser>()
+            services.AddDefaultIdentity<Models.ApplicationUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddIdentityServer()
@@ -41,8 +48,31 @@ namespace IdentityV3V4
 
             services.AddAuthentication()
                 .AddIdentityServerJwt();
+
+            services.Configure<PasswordHasherOptions>(option =>
+            {
+                option.CompatibilityMode = PasswordHasherCompatibilityMode.IdentityV2;
+
+            });
+
             services.AddMvc(options => options.EnableEndpointRouting = false)
+
+                .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0)
+                .AddRazorPagesOptions(options =>
+                {
+                    // options.AllowAreas = true;
+                    options.Conventions.AuthorizeAreaFolder("Identity", "/Account/Manage");
+                    options.Conventions.AuthorizeAreaPage("Identity", "/Account/Logout");
+                })
+
                 .AddNewtonsoftJson();
+
+            //services.AddRazorPages(options=> {
+            //    options.Conventions.AuthorizeAreaFolder("Identity", "/Account/Manage");
+            //    options.Conventions.AuthorizeAreaFolder("Identity", "/Account");
+            //    options.Conventions.AuthorizeAreaPage("Identity", "/Account/Logout");
+            //})
+            //    .AddNewtonsoftJson();
 
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
@@ -73,12 +103,16 @@ namespace IdentityV3V4
             app.UseAuthentication();
             app.UseIdentityServer();
 
+            //app.UseMvc();
+
+            //added
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
                     name: "default",
                     template: "{controller}/{action=Index}/{id?}");
             });
+
 
             app.UseSpa(spa =>
             {
